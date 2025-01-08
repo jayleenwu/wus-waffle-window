@@ -1,12 +1,13 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
+PROJECT TITLE: Wu's Waffle Window
+PURPOSE OF PROJECT: Individual Final Project for Computer Science Class (Gr. 11, 2023)
 VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
+HOW TO START THIS PROJECT: Game was programmed in Greenfoot, where users can play the game. 
+AUTHORS: Jayleen Wu
 USER INSTRUCTIONS:
+  Rules are simple.
+  Use the arrow keys to move around and catch the ingredients, but
+  watch for the stinky socks!
+  Try to build the tallest waffle possible. 
+  Every ingredient you catch, you get more $$$!!!
+  BUT every ingredient you miss, you lose a star :(
+  Have fun and eat well!
