@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Sock
+comment0.text=\n\ sets\ the\ size\ and\ speed\ of\ fall\ of\ the\ Sock\ topping\ (bad\ topping\ so\ do\ not\ catch)\n\n
+comment1.params=
+comment1.target=Sock()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ExitButton
+comment0.text=\n\ button\ that\ players\ can\ click\ which\ will\ lead\ them\ to\ the\ final\ screen\ of\ the\ game\ that\ thanks\ them\ for\ playing\n\n
+comment1.params=
+comment1.target=ExitButton()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

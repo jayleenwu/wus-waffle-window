@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=PauseScreen
+comment0.text=\n\ page\ that\ players\ can\ get\ to\ if\ they\ click\ the\ pause\ button\ during\ game\ play\n\ can\ get\ back\ to\ the\ game\ if\ they\ click\ enter\n\ \n
+comment1.params=sky
+comment1.target=PauseScreen(Sky)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

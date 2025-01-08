@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Stars
+comment0.text=\n\ displays\ a\ specific\ number\ of\ stars\ based\ on\ the\ number\ of\ stars\ the\ player\ still\ has\n
+comment1.params=value
+comment1.target=Stars(int)
+comment2.params=value
+comment2.target=void\ setValue(int)
+comment3.params=
+comment3.target=void\ update()
+numComments=4

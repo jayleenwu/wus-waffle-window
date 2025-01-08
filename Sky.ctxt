@@ -1,0 +1,32 @@
+#BlueJ class context
+comment0.target=Sky
+comment0.text=\n\ Welcome\ to\ Wu's\ Waffle\ Window\!\n\ Goal\ of\ the\ Game\:\ Build\ a\ tasty\ waffle\ by\ stacking\ as\ many\ appropriate\ toppings\ (strawberries,\ bananas,\ Nutella,\ whipped\ cream)\n\ that\ fall\ from\ the\ sky\ onto\ a\ waffle\n\ Do\ not\ catch\ a\ stinky\ sock\!\n\ \n\ You\ begin\ with\ a\ 5\ star\ rating,\ and\ it\ will\ decrease\ by\ 1\ each\ time\ you\ miss\ a\ topping.\n\ If\ you\ miss\ 5\ toppings\ or\ catch\ a\ stinky\ sock,\ the\ game\ will\ end.\n\ \n\ To\ play,\ simply\ use\ your\ left\ and\ right\ arrow\ keys\ to\ move\ the\ waffle\ under\ the\ falling\ toppings.\n\ \n\ Good\ luck\ and\ have\ fun\!\n\ \n\ \n\ Graphic\ Credits\:\ Jayleen\ Wu\n\ Audio\ Credits\:\n\ --\ Spagonia\ -\ Day\:\ https\://www.youtube.com/watch?v\=OWZ0cgwsWGI\n\ --\ Uh\ Oh\ Sound\ Effect\:\ https\://www.youtube.com/watch?v\=4ZtMe9ggT9I\n\ --\ Money\ Sound\ Effect\:\ https\://www.youtube.com/watch?v\=7xj6YAG2FI8\n\ --\ Ew\ Sound\ Effect\:\ https\://www.youtube.com/watch?v\=8zAr3zU7jQQ\n\ --\ Click\ Sound\ Effect\:\ https\://www.youtube.com/watch?v\=kgf11U-GFPo\n\n
+comment1.params=
+comment1.target=Sky()
+comment10.params=
+comment10.target=void\ increaseNutella()
+comment11.params=
+comment11.target=void\ increaseBanana()
+comment12.params=
+comment12.target=double\ getScore()
+comment13.params=
+comment13.target=void\ updateStars()
+comment14.params=
+comment14.target=void\ gameOver()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ spawn()
+comment4.params=
+comment4.target=void\ stackStrawberry()
+comment5.params=
+comment5.target=void\ stackCream()
+comment6.params=
+comment6.target=void\ stackNutella()
+comment7.params=
+comment7.target=void\ stackBanana()
+comment8.params=
+comment8.target=void\ increaseStrawberry()
+comment9.params=
+comment9.target=void\ increaseCream()
+numComments=15

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=HomeSmall
+comment0.text=\n\ a\ smaller\ button\ displayed\ on\ the\ corner\ of\ the\ game\ screen\ that\ players\ can\ click\ which\ will\ lead\ them\ back\ to\ the\ home\ page\n\n
+comment1.params=
+comment1.target=HomeSmall()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

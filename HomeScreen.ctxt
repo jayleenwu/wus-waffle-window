@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=HomeScreen
+comment0.text=\n\ welcome\ page\ and\ home\ page\ that\ displays\ the\ name\ of\ the\ game\ in\ large\ letters\n\ allows\ the\ user\ to\ click\ the\ help\ button\ for\ instructions\ and\ the\ play\ button\ to\ begin\ playing\ the\ game\ \n\ music\ also\ begins\ playing\ here,\ will\ loop\ if\ finished\n\ \n
+comment1.params=
+comment1.target=HomeScreen()
+comment2.params=
+comment2.target=void\ started()
+comment3.params=
+comment3.target=void\ stopped()
+numComments=4

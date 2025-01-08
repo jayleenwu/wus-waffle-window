@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Cream
+comment0.text=\n\ sets\ the\ size\ and\ speed\ of\ fall\ of\ the\ Cream\ topping\n\n
+comment1.params=
+comment1.target=Cream()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

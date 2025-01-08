@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=PauseButton
+comment0.text=\n\ button\ that\ players\ can\ click\ which\ will\ pause\ the\ game\ temporarily\ until\ they\ click\ enter\ to\ resume\n\n
+comment1.params=
+comment1.target=PauseButton()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

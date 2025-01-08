@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EndScreen
+comment0.text=\n\ screen\ that\ is\ displayed\ if\ the\ player\ has\ lost\ all\ their\ stars\ (5)\ or\ caught\ a\ stinky\ sock\n\ offers\ the\ option\ to\ go\ back\ to\ the\ home\ page,\ play\ again,\ or\ totally\ stop\ playing\n\ displays\ their\ final\ score\ (total\ earnings)\n\n
+comment1.params=
+comment1.target=EndScreen()
+numComments=2

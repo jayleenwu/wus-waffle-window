@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Bananas
+comment0.text=\n\ updated\ layer\ of\ the\ Banana\ topping\ which\ checks\ to\ see\ if\ it\ can\ catch\ other\ toppings\n\n
+comment1.params=
+comment1.target=Bananas()
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ checkUpper()
+comment5.params=
+comment5.target=void\ stack()
+numComments=6
